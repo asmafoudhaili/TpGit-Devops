@@ -18,6 +18,6 @@ public class Bloc {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long idBloc;
-    String nomBloc;
+    String NomBloc;
     Long capaciteBloc;
 }
